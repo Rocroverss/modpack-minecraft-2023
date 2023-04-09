@@ -1,9 +1,9 @@
 # ISNTRUCCIONES ISNTALACIÓN:
 
-1.-Descargar y ejecutar minecarft 1.19.2
-2.-Descargar e instalar FORGE desde la carpeta inst.
-3.-Mover la carpeta mods a la siguiente ruta: "C:\Users\NOMBRE_USUARIO_QUE_USAS\AppData\Roaming\.minecraft\mods"
-4.-Iniciar Minecraft con forge y ante dudas AVISADME :)
+**1.-Descargar y ejecutar minecarft 1.19.2**
+**2.-Descargar e instalar FORGE desde la carpeta inst.**
+**3.-Mover la carpeta mods a la siguiente ruta: "C:\Users\NOMBRE_USUARIO_QUE_USAS\AppData\Roaming\.minecraft\mods"**
+**4.-Iniciar Minecraft con forge y ante dudas AVISADME :)**
 
 INFO DEL MODPACK: v0.1 TESTING ENGUERRA
 # MODLINKS:
@@ -18,6 +18,8 @@ INFO DEL MODPACK: v0.1 TESTING ENGUERRA
 -MOBS EVIL: https://www.curseforge.com/minecraft/mc-mods/undead-unleashed
 -DUNGEON: https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl
 -DIFF: https://www.curseforge.com/minecraft/mc-mods/majruszs-progressive-difficulty
+-ETRUCTURAH: https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures
+-goclin traders: https://www.curseforge.com/minecraft/mc-mods/goblin-traders
 
 **3.	ÚTILES:**<br><br/>
 -MOCHILAS: https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/files
@@ -35,6 +37,7 @@ INFO DEL MODPACK: v0.1 TESTING ENGUERRA
 -STARTER KIT: https://www.curseforge.com/minecraft/mc-mods/starter-kit
 -paraglider: https://www.curseforge.com/minecraft/mc-mods/paragliders
 -armor: https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons
+
 TÉCNICOS:
 -CREATE: https://www.curseforge.com/minecraft/mc-mods/falling-tree
 
@@ -66,3 +69,4 @@ TÉCNICOS:
 -sodium like: https://www.curseforge.com/minecraft/mc-mods/rubidium
 -sodium extra like: https://www.curseforge.com/minecraft/mc-mods/rubidium-extra
 -ISNT: https://www.curseforge.com/minecraft/mc-mods/it-shall-not-tick/files
+-VSYNC like: https://www.curseforge.com/minecraft/mc-mods/fps-reducer
